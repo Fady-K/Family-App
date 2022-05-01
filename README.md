@@ -19,13 +19,9 @@ Your selection:
 
 ## SAMPLE
 
-| id | Frist_name | Last_name | Kinship | Age | Address | Mobile | Email |
-| 1 | fady | kamal | owner | 19 | HELWAN | 01212345678 | fady@gmai.com |
-| 2 | mina | samir | Cousin | 17 | HELWAN | 01212345678 | mina@gmail.com |
-
-| Attempt | #1 | #2 |
-| :---: | :---: | :---: |
-| Seconds | 301 | 283 |
+| id | First_name | Last_name |
+| 1 | fady | kamal |
+| 2 | mina | samir |
 
 
 ## assits
