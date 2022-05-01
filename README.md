@@ -17,6 +17,12 @@ Family-App Is A small database designed for the family, to store each family mem
 Your selection: 
 
 
+## SAMPLE
+   id First_name Last_name Kinship  Age Address      Mobile           Email
+0   1       fady     kamal      Me   19  HELWAN  1212345678  fady@gmail.com
+1   2       mina     samir  Cousin   17  HELWAN  1212345678  mina@gmail.com
+
+
 ## assits
 The database is designed in sqlite3  
 
