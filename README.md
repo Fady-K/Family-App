@@ -19,9 +19,9 @@ Your selection:
 
 ## SAMPLE
 
-| id | #1  | #2  |
-| 1   | :-: | :-: |
-| 2 | 301 | 283 |
+| Attempt | #1  | #2  |
+| :---:   | :-: | :-: |
+| Seconds | 301 | 283 |
 
 
 ## assits
