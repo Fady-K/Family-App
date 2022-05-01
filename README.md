@@ -23,6 +23,10 @@ Your selection:
 | 1 | fady | kamal | owner | 19 | HELWAN | 01212345678 | fady@gmai.com |
 | 2 | mina | samir | Cousin | 17 | HELWAN | 01212345678 | mina@gmail.com |
 
+| Attempt | #1 | #2 |
+| :---: | :---: | :---: |
+| Seconds | 301 | 283 |
+
 
 ## assits
 The database is designed in sqlite3  
