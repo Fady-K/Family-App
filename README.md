@@ -19,9 +19,9 @@ Your selection:
 
 ## SAMPLE
 
-| id | First_name | Last_name |
-| 1 | fady | kamal |
-| 2 | mina | samir |
+| id | #1  | #2  |
+| 1   | :-: | :-: |
+| 2 | 301 | 283 |
 
 
 ## assits
