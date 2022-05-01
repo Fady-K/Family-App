@@ -17,13 +17,6 @@ Family-App Is A small database designed for the family, to store each family mem
 Your selection: 
 
 
-## SAMPLE
-
-| Attempt | #1  | #2  |
-| :---:   | :-: | :-: |
-| Seconds | 301 | 283 |
-
-
 ## assits
 The database is designed in sqlite3  
 
