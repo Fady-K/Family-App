@@ -1,8 +1,8 @@
-## Family-App
+# Family-App
 Family-App Is A small database designed for the family, to store each family member's information (first name, last name, age, kinship, address, phone number, email), In addition, the ability to add a new member., display all members, find a member by name, delete a member, find the youngest member..... etc
 
 
-# UI
+## UI
  --- Family App ---
 1) Add a new kin
 2) See all kins
@@ -17,8 +17,8 @@ Family-App Is A small database designed for the family, to store each family mem
 Your selection: 
 
 
-# assits
+## assits
 The database is designed in sqlite3  
 
-# THE Whole program is made in python, And uses Pandas module to format the table in which data is displayed
+## THE Whole program is made in python, And uses Pandas module to format the table in which data is displayed
 
