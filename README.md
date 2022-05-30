@@ -17,7 +17,7 @@ Family-App Is A small database designed for the family, to store each family mem
 Your selection: 
 
 
-## Final-Ditails
+## Final-Details
 The database is designed in sqlite3  
 
 ## THE Whole program is made in python, And uses Pandas module to format the table in which the data is displayed
