@@ -20,5 +20,5 @@ Your selection:
 ## assits
 The database is designed in sqlite3  
 
-## THE Whole program is made in python, And uses Pandas module to format the table in which data is displayed
+## THE Whole program is made in python, And uses Pandas module to format the table in which the data is displayed
 
